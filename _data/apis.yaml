@@ -1,0 +1,251 @@
+---
+name: API Knowledge Toolbox
+description: This is a toolbox of sources of knowledge regarding the API industry, providing a single page to find the latest information about what is going on.
+image: https://postman-toolboxes.s3.amazonaws.com/assets/api.png
+tags:
+- APIs
+- Industry
+- Sector
+created: '2020-08-07'
+modified: '2020-08-07'
+url: apis.json
+specificationVersion: '0.14'
+apis:
+
+- name: Nordic APIs
+  description: We’re an international community of API practitioners and enthusiasts. Our mission is to help organizations make smarter tech decisions using APIs. We do this through knowledge and information sharing via our blog and events. Nordic APIs was formed to help businesses become more innovative, lean, and efficient.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/nordic-apis-screenshot.png
+  tags:
+  - Blog
+  - News
+  - Events
+  - eBooks
+  properties:
+  - type: x-website
+    url: https://nordicapis.com/
+  - type: x-twitter
+    url: https://twitter.com/nordicapis
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: ProgrammableWeb
+  description: As the world's leading source of news and information about Internet-based application programming interfaces (APIs), ProgrammableWeb.com is known as the Web's defacto journal of the API economy. Since it was founded in 2005, ProgrammableWeb has been chronicling the daily evolution of the global API economy while amassing the Web's most relied-on directory when it comes to discovering and searching for APIs to use in Web and mobile applications.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/programmableweb-screenshot.png
+  tags:
+  - Blog
+  - News
+  - Discovery
+  - Tutorials
+  properties:
+  - type: x-website
+    url: https://www.programmableweb.com/
+  - type: x-twitter
+    url: https://twitter.com/programmableweb
+  - type: x-blog-rss
+    url: http://feeds.feedburner.com/ProgrammableWeb
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: API Evangelist
+  description: API Evangelist is a site dedicated to the technology, business, and politics of APIs. Beginning as a research site studying many different types of APIs, and then evolving towards developing an understanding of the common building blocks API providers are using across the API lifecycle. You can find research across 100 stops along the API lifecycle below, as well as the ability to browse for APIs, and access other resources like industry guides, blueprints, landscape analysis, as well as a regular storytelling from across the API sector.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-evangelist-screenshot.png
+  tags:
+  - Blog
+  - Research
+  properties:
+  - type: x-website
+    url: https://apievangelist.com/
+  - type: x-twitter
+    url: https://twitter.com/apievangelist
+  - type: x-blog-rss
+    url: https://apievangelist.com/atom.xml
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: APIs You Won't Hate
+  description: API development is a topic very close to Phil's heart. APIs You Won't Hate started out as a book, with Phil pouring everything API related he knew, all the problems he faced, all the design decisions he wish he thought about earlier. Since the book, Phil has continued to learn and grow, thanks to new experiences, and new conversations with really smart people. Learning never stops, and the Slack channel that grew from the book subscribers and their friends has become home to the largest API chat group on the internet.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/apis-you-wont-hit-screenshot.png
+  tags:
+  - Blog
+  - Jobs
+  - Podcasts
+  - Videos
+  properties:
+  - type: x-website
+    url: https://apisyouwonthate.com/
+  - type: x-twitter
+    url: https://twitter.com/apisyouwonthate/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: APIScene
+  description: An aggregate API news and information site, providing a source of API resources from across the sector. Going beyond just the news and providing research, events, and other resources for the API industry to put to work.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/apiscene-screenshot.png
+  tags:
+  - Blog
+  - News
+  - Events
+  - Research
+  properties:
+  - type: x-website
+    url: https://www.apiscene.io/
+  - type: x-twitter
+    url: https://twitter.com/APIdaysGlobal
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: API Handyman
+  description: Hi! I’m Arnaud Lauret, the API Handyman and author of The Design of Web APIs. I like to share what I do, struggle with, learn, and teach while working in the API space. I have been working in the financial industry for 18 years and my job was always around connecting pieces of software together, hence creating and using web services or APIs. My current daily job is helping people, from executive to developers and everything in between, to understand what are APIs, why they matters and how to do them. I also help dozens of different teams to design their APIs by reviewing and challenging their designs, training them to design API and also building API design guidelines.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-handyman-screenshot.png
+  tags:
+  - Blog
+  - Design
+  properties:
+  - type: x-website
+    url: http://apihandyman.io/
+  - type: x-twitter
+    url: https://twitter.com/apihandyman
+  - type: x-twitter
+    url: http://apihandyman.io/feed.xml
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: EveryDeveloper
+  description: EveryDeveloper works with the best dev tool companies to educate and inspire developers. We create strategic content that shares knowledge, not features. Show developers something useful and you will reach more of them.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/everydeveloper-screenshot.png
+  tags:
+  - Blog
+  - Developer Experience
+  properties:
+  - type: x-website
+    url: https://everydeveloper.com/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: APIFriends
+  description: API Friends is a fast-growing community of people with all levels of API experience – from novice to ninja. Here you can find business leaders, digital strategists and solution architects sharing their API knowledge, talking about API news and explaining basic or complex API concepts. Join the conversation!
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-friends-screenshot.png
+  tags:
+  - Blog
+  - News
+  - Events
+  - Research
+  properties:
+  - type: x-website
+    url: https://apifriends.com/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: API Developer Weekly Newsletter
+  description: The API Developer Weekly is a weekly newsletter hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps. API Developer Weekly NewsletterThe newsletter is hand-curated and designed to keep you updated on the latest news, product releases, and trends in API business, practices, and related technologies.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-developer-weekly-newsletter.png
+  tags:
+  - Newsletter
+  properties:
+  - type: x-website
+    url: https://apideveloperweekly.com/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: Net API Notes
+  description: There is no end to the rolling online debate over API best practices, microservices, and expectations. Let me save you time and effort by highlighting only the essential API information needed to succeed in a succinct, weekly digest - delivered directly to your inbox!
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/net-api-not4es.png
+  tags:
+  - Newsletter
+  properties:
+  - type: x-website
+    url: https://tinyletter.com/NetAPINotes
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: Postman API Network
+  description: The Postman API Network provides a central place for both API consumers and API producers to easily discover, explore, and share APIs. The Postman API Network has two parts, a public network and a private network. The Postman Public API Network is open to the entire API community, while the Postman Private API Network is for your team only.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/postman-api-network-screenshot.png
+  tags:
+  - Discovery
+  properties:
+  - type: x-website
+    url: https://explore.postman.com/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: RapidAPI
+  description: There are millions of software programs out there and they’re reshaping every aspect of our lives. We believe that they can get exponentially better by sharing data and functionality with each other. APIs are the language that software uses to communicate and connect. RapidAPI is the world’s largest API marketplace. RapidAPI lets you manage all your API integrations from one place and gives you real-time performance metrics.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/rapid-api-screenshot.png
+  tags:
+  - Discovery
+  properties:
+  - type: x-website
+    url: https://rapidapi.com/
+  - type: x-twitter
+    url: https://twitter.com/rapid_api
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: SmartAPI
+  description: The SmartAPI project aims to maximize the FAIRness (Findability, Accessibility, Interoperability, and Reusability) of web-based Application Programming Interfaces (APIs). Rich metadata is essential to properly describe your API so that it becomes discoverable, connected, and reusable. We have developed a openAPI-based specification for defining the key API metadata elements and value sets. SmartAPI's leverage the Open API specification v3 and JSON-LD for providing semantically annotated JSON content that can be treated as Linked Data.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/smart-api-screenshot.png
+  tags:
+  - Discovery
+  properties:
+  - type: x-website
+    url: https://smart-api.info/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: AnyAPI
+  description: Documentation and Test Consoles for Over 1400 Public APIs
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/anyapi-screenshot.png
+  tags:
+  - Discovery
+  properties:
+  - type: x-website
+    url: https://any-api.com/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: APIs.guru
+  description: Our goal is to create a machine-readable Wikipedia for REST APIs with the following principals, open source, community driven project, only publicly available APIs (free or paid), anyone can add or change an API, not only API owners, and all data can be accessed through a REST API.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/apis-guru-screenshot.png
+  tags:
+  - Discovery
+  properties:
+  - type: x-website
+    url: https://apis.guru/openapi-directory/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+maintainers:
+- FN: Postman
+  x-Tweets: getpostman
+  email: covid-19@postman.com

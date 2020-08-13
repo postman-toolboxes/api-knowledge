@@ -1,0 +1,18 @@
+title: API Knowledge Toolbox
+description: This is a toolbox of sources of knowledge regarding the API industry, providing a single page to find the latest information the API sector.
+image: https://postman-toolboxes.s3.amazonaws.com/assets/api.png
+url: https://postman-toolboxes.github.io/api-knowledge
+email: covid-19@postman.com
+
+github_user: postman-toolboxes
+github_repo: api-knowledge
+github_branch: master
+
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'kin.lane@postman.com'
+markdown:     kramdown
+
+permalink: /:categories/:year/:month/:day/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]

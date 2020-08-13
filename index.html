@@ -1,0 +1,105 @@
+---
+layout: default
+---
+<div class="container-fluid hero v5_starfield-small-night-sky pb-4">
+   <div class="container">
+      <div class="row">
+         <div class="col-md-6 hero_title">
+            <h1>{{ site.title }}</h1>
+         </div>
+         <div class="col-md-6 hero_image"><img src="{{ site.image }}" alt=""></div>
+      </div>
+   </div>
+</div>
+
+<div class="container">
+   <div class="row">
+      <div class="col-md-10 offset-md-1 welcome text-center">
+         <p>{{ site.description }}</p>
+      </div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <h2 class="h1">API Blogs and and News Sites</h2>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.apis %}
+        {% assign show_tag = "Blog" %}
+        {% include api-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
+         <h2>The Postman Blog</h2>
+         <p class="collection__end_p">You can stay in tune with the Postman community via the Postman blog.</p>
+      </div>
+      <div class="col-md-12 blurb_padding"><a class="btn btn__secondary-light" href="https://blog.postman.com/">View the Postman Blog</a></div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <h2 class="h1">API Catalogs, Directories, and Networks</h2>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.apis %}
+        {% assign show_tag = "Discovery" %}
+        {% include api-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
+         <h2>The Postman API Network</h2>
+         <p class="collection__end_p">You can browse and search for collection via the Postman network.</p>
+      </div>
+      <div class="col-md-12 blurb_padding"><a class="btn btn__secondary-light" href="https://explore.postman.com/">Browse the Network</a></div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <h2 class="h1">API Newsletters</h2>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.apis %}
+        {% assign show_tag = "Newsletter" %}
+        {% include api-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
+         <h2>About this API Knowledge Toolbox</h2>
+         <p class="collection__end_p">This site is meant to aggregate some of the common sources of information for the API sector, providing a single place where you can find out what is going on.</p>
+      </div>
+      <div class="col-md-12 blurb_padding"><a class="btn btn__secondary-light" href="https://github.com/{{ site.github_user }}/{{ site.github_repo }}">Join the Conversation on GitHub</a></div>
+   </div>
+</div>
