@@ -1,4 +1,4 @@
-# U.S. 2020 Election Developer Toolbox
-This is a toolbox of API collections, visualizations, and tooling to help make sense of the 2020 election in the United States. Providing a single landing page, documentation, and Postman collections that can be easily run using the Postman platform.
+# API Knowledge Toolbox
+This is a toolbox of where you can obtain more knowledge about the API sector, providing a single landing page where you can find news, blogs, newsletters, and of course APIs. This project runs from the apis.yaml file in the data folder for this project, so if there is something missing feel free to submit a GitHub issue or pull request.
 
-URL: https://postman-toolboxes.github.io/us-2020-elections/
+URL: https://postman-toolboxes.github.io/api-knowledge/
