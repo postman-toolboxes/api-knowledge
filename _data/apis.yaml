@@ -1,13 +1,13 @@
 ---
 name: API Knowledge
-description: This is a toolbox of sources of knowledge regarding the API industry, providing a single page to find the latest information about what is going on.
+description: This is an open toolbox of API knowledge that runs on GitHub, providing a single resource to use when seeking knowledge of the API sector.
 image: https://postman-toolboxes.s3.amazonaws.com/assets/api.png
 tags:
 - APIs
 - Industry
 - Sector
 created: '2020-08-07'
-modified: '2020-08-07'
+modified: '2020-08-13'
 url: apis.json
 specificationVersion: '0.14'
 apis:
