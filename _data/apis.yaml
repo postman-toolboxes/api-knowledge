@@ -186,6 +186,8 @@ apis:
   properties:
   - type: x-website
     url: https://explore.postman.com/
+  - type: x-twitter
+    url: https://twitter.com/getpostman   
   contact:
   - FN: Postman
     email: covid-19@postman.com
