@@ -152,6 +152,64 @@ apis:
     email: covid-19@postman.com
     x-Tweets: getpostman
 
+- name: DZone
+  description: Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/dzone.png
+  tags:
+  - Blog
+  - News
+  - Tutorials
+  properties:
+  - type: x-website
+    url: https://dzone.com/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: Dev.to
+  description: dev.to (or just DEV) is hosted by Forem. It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/devto.png
+  tags:
+  - Blog
+  - News
+  - Podcasts
+  - Videos
+  properties:
+  - type: x-website
+    url: https://dev.to/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: HackerNoon
+  description: dev.to (or just DEV) is hosted by Forem. It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/hackernoon.png
+  tags:
+  - Blog
+  - News
+  properties:
+  - type: x-website
+    url: https://hackernoon.com/tagged/api
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
+- name: Reddit r/api
+  description: The Reddit channel all about application programming interfaces.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/reddit.png
+  tags:
+  - Reddit
+  properties:
+  - type: x-website
+    url: https://hackernoon.com/tagged/api
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
 - name: API Developer Weekly Newsletter
   description: The API Developer Weekly is a weekly newsletter hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps. API Developer Weekly NewsletterThe newsletter is hand-curated and designed to keep you updated on the latest news, product releases, and trends in API business, practices, and related technologies.
   image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-developer-weekly-newsletter.png
@@ -187,7 +245,7 @@ apis:
   - type: x-website
     url: https://explore.postman.com/
   - type: x-twitter
-    url: https://twitter.com/getpostman   
+    url: https://twitter.com/getpostman
   contact:
   - FN: Postman
     email: covid-19@postman.com
