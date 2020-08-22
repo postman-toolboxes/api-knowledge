@@ -199,7 +199,7 @@ apis:
 
 - name: Reddit r/api
   description: The Reddit channel all about application programming interfaces.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/reddit.png
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/reddit-r-api.png
   tags:
   - Reddit
   properties:
