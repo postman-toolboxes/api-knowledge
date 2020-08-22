@@ -177,7 +177,7 @@ apis:
   - Videos
   properties:
   - type: x-website
-    url: https://dev.to/
+    url: https://dev.to/t/api
   contact:
   - FN: Postman
     email: covid-19@postman.com
