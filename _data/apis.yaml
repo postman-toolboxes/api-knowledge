@@ -197,6 +197,21 @@ apis:
     email: covid-19@postman.com
     x-Tweets: getpostman
 
+- name: APIsecurity.io
+  description: APISecurity.io is a community website for all things related to API security. Our daily news and weekly API Security newsletter cover the latest breaches, vulnerabilities, standards, best practices, regulations, and technology.
+  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-security-io.png
+  tags:
+  - Blog
+  - News
+  - Security
+  properties:
+  - type: x-website
+    url: https://apisecurity.io/
+  contact:
+  - FN: Postman
+    email: covid-19@postman.com
+    x-Tweets: getpostman
+
 - name: Reddit r/api
   description: The Reddit channel all about application programming interfaces.
   image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/reddit-r-api.png
