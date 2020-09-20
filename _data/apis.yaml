@@ -1,7 +1,7 @@
 ---
 name: API Knowledge
 description: This is an open toolbox of API knowledge that runs on GitHub, providing a single resource to use when seeking knowledge of the API sector.
-image: https://postman-toolboxes.s3.amazonaws.com/assets/api.png
+image: https://postman-toolboxes2.s3.amazonaws.com/assets/api.png
 tags:
 - APIs
 - Industry
@@ -14,7 +14,7 @@ apis:
 
 - name: Nordic APIs
   description: We’re an international community of API practitioners and enthusiasts. Our mission is to help organizations make smarter tech decisions using APIs. We do this through knowledge and information sharing via our blog and events. Nordic APIs was formed to help businesses become more innovative, lean, and efficient.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/nordic-apis-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/nordic-apis-screenshot.png
   tags:
   - Blog
   - News
@@ -32,7 +32,7 @@ apis:
 
 - name: ProgrammableWeb
   description: As the world's leading source of news and information about Internet-based application programming interfaces (APIs), ProgrammableWeb.com is known as the Web's defacto journal of the API economy. Since it was founded in 2005, ProgrammableWeb has been chronicling the daily evolution of the global API economy while amassing the Web's most relied-on directory when it comes to discovering and searching for APIs to use in Web and mobile applications.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/programmableweb-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/programmableweb-screenshot.png
   tags:
   - Blog
   - News
@@ -52,7 +52,7 @@ apis:
 
 - name: API Evangelist
   description: API Evangelist is a site dedicated to the technology, business, and politics of APIs. Beginning as a research site studying many different types of APIs, and then evolving towards developing an understanding of the common building blocks API providers are using across the API lifecycle. You can find research across 100 stops along the API lifecycle below, as well as the ability to browse for APIs, and access other resources like industry guides, blueprints, landscape analysis, as well as a regular storytelling from across the API sector.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-evangelist-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-evangelist-screenshot.png
   tags:
   - Blog
   - Research
@@ -70,7 +70,7 @@ apis:
 
 - name: APIs You Won't Hate
   description: API development is a topic very close to Phil's heart. APIs You Won't Hate started out as a book, with Phil pouring everything API related he knew, all the problems he faced, all the design decisions he wish he thought about earlier. Since the book, Phil has continued to learn and grow, thanks to new experiences, and new conversations with really smart people. Learning never stops, and the Slack channel that grew from the book subscribers and their friends has become home to the largest API chat group on the internet.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/apis-you-wont-hit-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/apis-you-wont-hit-screenshot.png
   tags:
   - Blog
   - Jobs
@@ -88,7 +88,7 @@ apis:
 
 - name: APIScene
   description: An aggregate API news and information site, providing a source of API resources from across the sector. Going beyond just the news and providing research, events, and other resources for the API industry to put to work.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/apiscene-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/apiscene-screenshot.png
   tags:
   - Blog
   - News
@@ -106,7 +106,7 @@ apis:
 
 - name: API Handyman
   description: Hi! I’m Arnaud Lauret, the API Handyman and author of The Design of Web APIs. I like to share what I do, struggle with, learn, and teach while working in the API space. I have been working in the financial industry for 18 years and my job was always around connecting pieces of software together, hence creating and using web services or APIs. My current daily job is helping people, from executive to developers and everything in between, to understand what are APIs, why they matters and how to do them. I also help dozens of different teams to design their APIs by reviewing and challenging their designs, training them to design API and also building API design guidelines.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-handyman-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-handyman-screenshot.png
   tags:
   - Blog
   - Design
@@ -124,7 +124,7 @@ apis:
 
 - name: EveryDeveloper
   description: EveryDeveloper works with the best dev tool companies to educate and inspire developers. We create strategic content that shares knowledge, not features. Show developers something useful and you will reach more of them.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/everydeveloper-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/everydeveloper-screenshot.png
   tags:
   - Blog
   - Developer Experience
@@ -138,7 +138,7 @@ apis:
 
 - name: APIFriends
   description: API Friends is a fast-growing community of people with all levels of API experience – from novice to ninja. Here you can find business leaders, digital strategists and solution architects sharing their API knowledge, talking about API news and explaining basic or complex API concepts. Join the conversation!
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-friends-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-friends-screenshot.png
   tags:
   - Blog
   - News
@@ -154,7 +154,7 @@ apis:
 
 - name: DZone
   description: Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/dzone.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/dzone.png
   tags:
   - Blog
   - News
@@ -169,7 +169,7 @@ apis:
 
 - name: Dev.to
   description: dev.to (or just DEV) is hosted by Forem. It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/devto.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/devto.png
   tags:
   - Blog
   - News
@@ -185,7 +185,7 @@ apis:
 
 - name: HackerNoon
   description: dev.to (or just DEV) is hosted by Forem. It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/hackernoon.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/hackernoon.png
   tags:
   - Blog
   - News
@@ -199,7 +199,7 @@ apis:
 
 - name: APIsecurity.io
   description: APISecurity.io is a community website for all things related to API security. Our daily news and weekly API Security newsletter cover the latest breaches, vulnerabilities, standards, best practices, regulations, and technology.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-security-io.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-security-io.png
   tags:
   - Blog
   - News
@@ -214,7 +214,7 @@ apis:
 
 - name: Reddit r/api
   description: The Reddit channel all about application programming interfaces.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/reddit-r-api.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/reddit-r-api.png
   tags:
   - Reddit
   properties:
@@ -227,7 +227,7 @@ apis:
 
 - name: API Developer Weekly Newsletter
   description: The API Developer Weekly is a weekly newsletter hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps. API Developer Weekly NewsletterThe newsletter is hand-curated and designed to keep you updated on the latest news, product releases, and trends in API business, practices, and related technologies.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/api-developer-weekly-newsletter.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-developer-weekly-newsletter.png
   tags:
   - Newsletter
   properties:
@@ -240,7 +240,7 @@ apis:
 
 - name: Net API Notes
   description: There is no end to the rolling online debate over API best practices, microservices, and expectations. Let me save you time and effort by highlighting only the essential API information needed to succeed in a succinct, weekly digest - delivered directly to your inbox!
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/net-api-not4es.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/net-api-not4es.png
   tags:
   - Newsletter
   properties:
@@ -253,7 +253,7 @@ apis:
 
 - name: Postman API Network
   description: The Postman API Network provides a central place for both API consumers and API producers to easily discover, explore, and share APIs. The Postman API Network has two parts, a public network and a private network. The Postman Public API Network is open to the entire API community, while the Postman Private API Network is for your team only.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/postman-api-network-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/postman-api-network-screenshot.png
   tags:
   - Discovery
   properties:
@@ -268,7 +268,7 @@ apis:
 
 - name: RapidAPI
   description: There are millions of software programs out there and they’re reshaping every aspect of our lives. We believe that they can get exponentially better by sharing data and functionality with each other. APIs are the language that software uses to communicate and connect. RapidAPI is the world’s largest API marketplace. RapidAPI lets you manage all your API integrations from one place and gives you real-time performance metrics.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/rapid-api-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/rapid-api-screenshot.png
   tags:
   - Discovery
   properties:
@@ -283,7 +283,7 @@ apis:
 
 - name: SmartAPI
   description: The SmartAPI project aims to maximize the FAIRness (Findability, Accessibility, Interoperability, and Reusability) of web-based Application Programming Interfaces (APIs). Rich metadata is essential to properly describe your API so that it becomes discoverable, connected, and reusable. We have developed a openAPI-based specification for defining the key API metadata elements and value sets. SmartAPI's leverage the Open API specification v3 and JSON-LD for providing semantically annotated JSON content that can be treated as Linked Data.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/smart-api-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/smart-api-screenshot.png
   tags:
   - Discovery
   properties:
@@ -296,7 +296,7 @@ apis:
 
 - name: AnyAPI
   description: Documentation and Test Consoles for Over 1400 Public APIs
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/anyapi-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/anyapi-screenshot.png
   tags:
   - Discovery
   properties:
@@ -309,7 +309,7 @@ apis:
 
 - name: APIs.guru
   description: Our goal is to create a machine-readable Wikipedia for REST APIs with the following principals, open source, community driven project, only publicly available APIs (free or paid), anyone can add or change an API, not only API owners, and all data can be accessed through a REST API.
-  image: https://postman-toolboxes.s3.amazonaws.com/assets/api-knowledge/apis-guru-screenshot.png
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/apis-guru-screenshot.png
   tags:
   - Discovery
   properties:

@@ -1,10 +1,10 @@
 title: API Knowledge
 description: This is an open toolbox of API knowledge that runs on GitHub, providing a single resource to use when seeking knowledge of the API sector.
-image: https://postman-toolboxes.s3.amazonaws.com/assets/api.png
-url: https://postman-toolboxes.github.io/api-knowledge
+image: https://postman-toolboxes2.s3.amazonaws.com/assets/api.png
+url: https://postman-toolboxes2.github.io/api-knowledge
 email: covid-19@postman.com
 
-github_user: postman-toolboxes
+github_user: postman-toolboxes2
 github_repo: api-knowledge
 github_branch: master
 
