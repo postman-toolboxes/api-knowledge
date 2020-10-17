@@ -109,6 +109,34 @@ layout: default
 
 			<div class="row collection__header text-center">
          <div class="col-md-12">
+            <h2 class="h1">API Reports</h2>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.apis %}
+        {% assign show_tag = "reports" %}
+        {% include api-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
+         <h2>API Evangelist</h2>
+         <p class="collection__end_p">Learn more about the technology, business, and politics of APIs at API Evangelist.</p>
+      </div>
+      <div class="col-md-12 blurb_padding"><a class="btn btn__secondary-light" href="http://apievangelist.com/">Browse the Network</a></div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
             <h2 class="h1">Reddit</h2>
          </div>
       </div>
