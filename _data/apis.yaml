@@ -26,7 +26,7 @@ apis:
   - type: x-twitter
     url: https://twitter.com/nordicapis
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -46,7 +46,7 @@ apis:
   - type: x-blog-rss
     url: http://feeds.feedburner.com/ProgrammableWeb
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -64,7 +64,7 @@ apis:
   - type: x-blog-rss
     url: https://apievangelist.com/atom.xml
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -82,7 +82,7 @@ apis:
   - type: x-twitter
     url: https://twitter.com/apisyouwonthate/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -100,7 +100,7 @@ apis:
   - type: x-twitter
     url: https://twitter.com/APIdaysGlobal
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -118,7 +118,7 @@ apis:
   - type: x-twitter
     url: http://apihandyman.io/feed.xml
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -132,7 +132,7 @@ apis:
   - type: x-website
     url: https://everydeveloper.com/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -148,7 +148,7 @@ apis:
   - type: x-website
     url: https://apifriends.com/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -163,7 +163,7 @@ apis:
   - type: x-website
     url: https://dzone.com/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -179,7 +179,7 @@ apis:
   - type: x-website
     url: https://dev.to/t/api
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -193,7 +193,7 @@ apis:
   - type: x-website
     url: https://hackernoon.com/tagged/api
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -208,7 +208,7 @@ apis:
   - type: x-website
     url: https://apisecurity.io/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -221,7 +221,7 @@ apis:
   - type: x-website
     url: https://hackernoon.com/tagged/api
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -234,7 +234,7 @@ apis:
   - type: x-website
     url: https://apideveloperweekly.com/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -247,7 +247,7 @@ apis:
   - type: x-website
     url: https://tinyletter.com/NetAPINotes
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -262,7 +262,7 @@ apis:
   - type: x-twitter
     url: https://twitter.com/getpostman
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -277,7 +277,7 @@ apis:
   - type: x-twitter
     url: https://twitter.com/rapid_api
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -290,7 +290,7 @@ apis:
   - type: x-website
     url: https://smart-api.info/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -303,7 +303,7 @@ apis:
   - type: x-website
     url: https://any-api.com/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -316,7 +316,7 @@ apis:
   - type: x-website
     url: https://apis.guru/openapi-directory/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -329,7 +329,7 @@ apis:
   - type: x-website
     url: https://www.postman.com/state-of-api/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -342,7 +342,7 @@ apis:
   - type: x-website
     url: https://smartbear.com/resources/ebooks/the-state-of-api-2020-report/
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -355,7 +355,7 @@ apis:
   - type: x-website
     url: https://offers.cloud-elements.com/2020-state-of-api-integration-report
   contact:
-  - API Evangelist
+  - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
 
@@ -368,11 +368,11 @@ apis:
     - type: x-website
       url: https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/state-of-the-internet-security-retail-attacks-and-api-traffic-report-2019.pdf
     contact:
-    - API Evangelist
+    - FN: API Evangelist
       email: info@apievangelist.com
       x-Tweets: getpostman
 
 maintainers:
-- API Evangelist
+- FN: API Evangelist
   x-Tweets: getpostman
   email: info@apievangelist.com
