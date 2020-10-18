@@ -359,18 +359,18 @@ apis:
     email: info@apievangelist.com
     x-Tweets: getpostman
 
-  - name: Akamai State of the Internet / Security report
-    description: All three of our stories in this issue of the State of the Internet / Security report are about things most organizations aren’t examining. Whether the cause is that organizations don’t perceive some issues as important to their environment, if they don’t have tooling to monitor these issues, or if the resources to monitor this traffic are not available, this traffic is often being overlooked.
-    image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/akamai-state-of-internet-seccurity-report.png
-    tags:
-    - Report
-    properties:
-    - type: x-website
-      url: https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/state-of-the-internet-security-retail-attacks-and-api-traffic-report-2019.pdf
-    contact:
-    - FN: API Evangelist
-      email: info@apievangelist.com
-      x-Tweets: getpostman
+- name: Akamai State of the Internet / Security report
+  description: All three of our stories in this issue of the State of the Internet / Security report are about things most organizations aren’t examining. Whether the cause is that organizations don’t perceive some issues as important to their environment, if they don’t have tooling to monitor these issues, or if the resources to monitor this traffic are not available, this traffic is often being overlooked.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/akamai-state-of-internet-seccurity-report.png
+  tags:
+  - Report
+  properties:
+  - type: x-website
+    url: https://www.akamai.com/us/en/multimedia/documents/state-of-the-internet/state-of-the-internet-security-retail-attacks-and-api-traffic-report-2019.pdf
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-Tweets: getpostman
 
 maintainers:
 - FN: API Evangelist
