@@ -115,7 +115,7 @@ apis:
     url: http://apihandyman.io/
   - type: x-twitter
     url: https://twitter.com/apihandyman
-  - type: x-twitter
+  - type: x-blogrss
     url: http://apihandyman.io/feed.xml
   contact:
   - FN: API Evangelist
@@ -195,7 +195,7 @@ apis:
   - type: x-twitter
     url: https://twitter.com/hackernoon
   - type: x-linkedin
-    url: https://www.linkedin.com/company/hackernoon/        
+    url: https://www.linkedin.com/company/hackernoon/
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
@@ -223,7 +223,7 @@ apis:
   - Reddit
   properties:
   - type: x-website
-    url: https://hackernoon.com/tagged/api
+    url: https://www.reddit.com/r/api/
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
