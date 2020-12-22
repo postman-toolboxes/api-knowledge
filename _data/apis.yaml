@@ -192,6 +192,10 @@ apis:
   properties:
   - type: x-website
     url: https://hackernoon.com/tagged/api
+  - type: x-twitter
+    url: https://twitter.com/hackernoon
+  - type: x-linkedin
+    url: https://www.linkedin.com/company/hackernoon/        
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
