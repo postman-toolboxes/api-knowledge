@@ -183,8 +183,8 @@ apis:
     email: info@apievangelist.com
     x-Tweets: getpostman
 
-- name: HackerNoon
-  description: dev.to (or just DEV) is hosted by Forem. It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members.
+- name: Hacker Noon
+  description: Hacker Noon is built for technologists to read, write, and publish. We are an open and international community of 15k+ contributing writers publishing stories and expertise for 3M+ curious and insightful monthly readers.
   image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/hackernoon.png
   tags:
   - Blog
