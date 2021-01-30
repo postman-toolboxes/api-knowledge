@@ -388,6 +388,20 @@ apis:
   - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
+    
+- name: API Stack
+  description: A collection of +100 tools and resources to build APIs.
+  tags:
+  - Blog
+  - News
+  - Discovery
+  properties:
+  - type: x-website
+    url: https://www.apistack.io/
+  contact:
+  - FN: Apideck
+    email: apistack@apideck.com
+    x-Tweets: apideck
 
 maintainers:
 - FN: API Evangelist
