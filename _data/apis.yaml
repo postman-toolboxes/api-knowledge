@@ -315,6 +315,8 @@ apis:
   description: The API Tracker aggregates +14,000 SaaS products, SDKs, APIs, and DX profiles. It aims to help developers access the information they need to integrate APIs faster.
   image: https://kinlane-productions2.s3.amazonaws.com/api-deck/api-deck-screenshot.png
   tags:
+  - Blog
+  - News
   - Discovery
   properties:
   - type: x-website
@@ -388,7 +390,7 @@ apis:
   - FN: API Evangelist
     email: info@apievangelist.com
     x-Tweets: getpostman
-    
+
 - name: API Stack
   description: A collection of +100 tools and resources to build APIs.
   tags:
