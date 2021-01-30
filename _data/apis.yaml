@@ -312,7 +312,8 @@ apis:
     x-Tweets: getpostman
 
 - name: API Tracker
-  description: The API Tracker aggregates +14,000 SaaS products, SDKs, APIs, and DX profiles. It aims to help developers access the information they need to integrate APIs faster. 
+  description: The API Tracker aggregates +14,000 SaaS products, SDKs, APIs, and DX profiles. It aims to help developers access the information they need to integrate APIs faster.
+  image: https://kinlane-productions2.s3.amazonaws.com/api-deck/api-deck-screenshot.png
   tags:
   - Discovery
   properties:
@@ -322,7 +323,7 @@ apis:
   - FN: Apideck
     email: apitracker@apideck.com
     x-Tweets: apideck
-    
+
 - name: APIs.guru
   description: Our goal is to create a machine-readable Wikipedia for REST APIs with the following principals, open source, community driven project, only publicly available APIs (free or paid), anyone can add or change an API, not only API owners, and all data can be accessed through a REST API.
   image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/apis-guru-screenshot.png
