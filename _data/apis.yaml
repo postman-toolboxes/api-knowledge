@@ -405,6 +405,19 @@ apis:
     email: apistack@apideck.com
     x-Tweets: apideck
 
+- name: API.expert
+  description: API.expert was launched by APImetrics with the goal of allowing all stakeholders to have a clear understanding of how their APIs are performing.
+  tags:
+  - News
+  - Discovery
+  properties:
+  - type: x-website
+    url: https://www.api.expert/industry/corpinfra
+  contact:
+  - FN: API Expert
+    email: support@apimetrics.io
+    x-Tweets: apimetricstats
+
 maintainers:
 - FN: API Evangelist
   x-Tweets: getpostman
