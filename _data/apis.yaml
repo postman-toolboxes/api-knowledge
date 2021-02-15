@@ -418,6 +418,20 @@ apis:
     email: support@apimetrics.io
     x-Tweets: apimetricstats
 
+- name: Chenosis
+  description: Chenosis is a cross-industry API Marketplace that enables developers, entrepreneurs and businesses to come together to create, discover and subscribe to the fastest growing library of open APIs.
+  tags:
+  - Discovery
+  - Africa
+  properties:
+  - type: x-website
+    url: https://chenosis.io/
+  - type: x-twitter
+    url: https://twitter.com/ChenosisAPI
+  contact:
+  - FN: Chenosis
+    x-Tweets: ChenosisAPI
+
 maintainers:
 - FN: API Evangelist
   x-Tweets: getpostman
