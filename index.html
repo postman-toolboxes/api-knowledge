@@ -158,6 +158,35 @@ layout: default
 <div class="container-fluid">
    <div class="row blurb text-center">
       <div class="col-md-12">
+         <h2>API Specification Toolbox</h2>
+         <p class="collection__end_p">A toolbox of API specifications, extensions, standards, services, tools, and other resources..</p>
+      </div>
+      <div class="col-md-12 blurb_padding"><a class="btn btn__secondary-light" href="http://api.specificationtoolbox.com/">Explore the Toolbox</a></div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <h2 class="h1">API Events</h2>
+            <p>Conferences, Events, and Meetups for the API sector.</p>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.apis %}
+        {% assign show_tag = "Events" %}
+        {% include api-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
          <h2>About this API Knowledge Toolbox</h2>
          <p class="collection__end_p">This site is meant to aggregate some of the common sources of information for the API sector, providing a single place where you can find out what is going on.</p>
       </div>

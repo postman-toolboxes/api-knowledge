@@ -393,6 +393,7 @@ apis:
 
 - name: API Stack
   description: A collection of +100 tools and resources to build APIs.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-stack-directory-screenshot.png
   tags:
   - Blog
   - News
@@ -407,6 +408,7 @@ apis:
 
 - name: API.expert
   description: API.expert was launched by APImetrics with the goal of allowing all stakeholders to have a clear understanding of how their APIs are performing.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-expert-screenshot.png
   tags:
   - News
   - Discovery
@@ -420,6 +422,7 @@ apis:
 
 - name: Chenosis
   description: Chenosis is a cross-industry API Marketplace that enables developers, entrepreneurs and businesses to come together to create, discover and subscribe to the fastest growing library of open APIs.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/chenosis-screenshot.png
   tags:
   - Discovery
   - Africa
@@ -431,6 +434,20 @@ apis:
   contact:
   - FN: Chenosis
     x-Tweets: ChenosisAPI
+
+- name: NetAPI.Events
+  description: The Latest Upcoming, In-Person API Events. Events are culled from Twitter hearsay, select Meetup.com groups, and/or directly from kind individuals looking to grow their community. Have something not listed here? Submit an event!
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/netapi-events-screenshot.png
+  tags:
+  - Events
+  - Conferences
+  - Meetups
+  properties:
+  - type: x-website
+    url: https://webapi.events/
+  contact:
+  - FN: Matthew Reinbold
+    x-Tweets: hello@matthewreinbold.com
 
 maintainers:
 - FN: API Evangelist
