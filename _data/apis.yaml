@@ -92,7 +92,6 @@ apis:
   tags:
   - Blog
   - News
-  - Events
   - Research
   properties:
   - type: x-website
@@ -142,7 +141,6 @@ apis:
   tags:
   - Blog
   - News
-  - Events
   - Research
   properties:
   - type: x-website
