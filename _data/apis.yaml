@@ -402,7 +402,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-twitter: getpostman
+    x-twitter: apievangelist
 
 - name: API Stack
   description: A collection of +100 tools and resources to build APIs.
@@ -460,7 +460,7 @@ apis:
     url: https://webapi.events/
   contact:
   - FN: Matthew Reinbold
-    x-twitter: hello@matthewreinbold.com
+    x-twitter: https://twitter.com/libelvox 
 
 - name: API Careers
   description: A website dedicated to sharing API specifi jobs that are available across the sector, providing a single place where API providers and service providerrs can publish their jobs, and find the top tier API talent.
@@ -476,7 +476,20 @@ apis:
   - FN:
     x-twitter: https://twitter.com/manp   
   - FN:
-    x-twitter: https://twitter.com/Stephen_Mizell      
+    x-twitter: https://twitter.com/Stephen_Mizell  
+    
+- name: Product Hunt
+  description: A Product Hunt search for APIs produces a pretty good way to discover new APIs--you can adjust the sort order by most upvoted, trending, or by date to show the newest. 
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/product-hunt.png
+  tags:
+  - Discovery
+  properties:
+  - type: x-website
+    url: https://www.producthunt.com/topics/apis?order=trending
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: apievangelist
 
 maintainers:
 - FN: API Evangelist
