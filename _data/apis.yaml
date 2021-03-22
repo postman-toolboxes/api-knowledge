@@ -219,6 +219,7 @@ apis:
   image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/reddit-r-api.png
   tags:
   - Reddit
+  - Developers
   properties:
   - type: x-website
     url: https://www.reddit.com/r/api/
@@ -226,6 +227,20 @@ apis:
   - FN: API Evangelist
     email: info@apievangelist.com
     x-twitter: getpostman
+
+- name: Stack Overflow #API
+  description: This is the official API tag and conversation around it on Stack Overflow.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/stack-overflow.png
+  tags:
+  - Stack Overflow
+  - Developers
+  properties:
+  - type: x-website
+    url: https://stackoverflow.com/questions/tagged/api
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: getpostman    
 
 - name: API Developer Weekly Newsletter
   description: The API Developer Weekly is a weekly newsletter hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps. API Developer Weekly NewsletterThe newsletter is hand-curated and designed to keep you updated on the latest news, product releases, and trends in API business, practices, and related technologies.
