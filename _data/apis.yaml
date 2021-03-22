@@ -28,7 +28,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: ProgrammableWeb
   description: As the world's leading source of news and information about Internet-based application programming interfaces (APIs), ProgrammableWeb.com is known as the Web's defacto journal of the API economy. Since it was founded in 2005, ProgrammableWeb has been chronicling the daily evolution of the global API economy while amassing the Web's most relied-on directory when it comes to discovering and searching for APIs to use in Web and mobile applications.
@@ -48,7 +48,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: API Evangelist
   description: API Evangelist is a site dedicated to the technology, business, and politics of APIs. Beginning as a research site studying many different types of APIs, and then evolving towards developing an understanding of the common building blocks API providers are using across the API lifecycle. You can find research across 100 stops along the API lifecycle below, as well as the ability to browse for APIs, and access other resources like industry guides, blueprints, landscape analysis, as well as a regular storytelling from across the API sector.
@@ -66,7 +66,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: APIs You Won't Hate
   description: API development is a topic very close to Phil's heart. APIs You Won't Hate started out as a book, with Phil pouring everything API related he knew, all the problems he faced, all the design decisions he wish he thought about earlier. Since the book, Phil has continued to learn and grow, thanks to new experiences, and new conversations with really smart people. Learning never stops, and the Slack channel that grew from the book subscribers and their friends has become home to the largest API chat group on the internet.
@@ -84,7 +84,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: APIScene
   description: An aggregate API news and information site, providing a source of API resources from across the sector. Going beyond just the news and providing research, events, and other resources for the API industry to put to work.
@@ -101,7 +101,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: API Handyman
   description: Hi! I’m Arnaud Lauret, the API Handyman and author of The Design of Web APIs. I like to share what I do, struggle with, learn, and teach while working in the API space. I have been working in the financial industry for 18 years and my job was always around connecting pieces of software together, hence creating and using web services or APIs. My current daily job is helping people, from executive to developers and everything in between, to understand what are APIs, why they matters and how to do them. I also help dozens of different teams to design their APIs by reviewing and challenging their designs, training them to design API and also building API design guidelines.
@@ -119,7 +119,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: EveryDeveloper
   description: EveryDeveloper works with the best dev tool companies to educate and inspire developers. We create strategic content that shares knowledge, not features. Show developers something useful and you will reach more of them.
@@ -133,7 +133,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: APIFriends
   description: API Friends is a fast-growing community of people with all levels of API experience – from novice to ninja. Here you can find business leaders, digital strategists and solution architects sharing their API knowledge, talking about API news and explaining basic or complex API concepts. Join the conversation!
@@ -148,7 +148,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: DZone
   description: Programming, Web Development, and DevOps news, tutorials and tools for beginners to experts. Hundreds of free publications, over 1M members, totally free.
@@ -163,7 +163,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: Dev.to
   description: dev.to (or just DEV) is hosted by Forem. It is a community of software developers who write articles, take part in discussions, and build their professional profiles. We value supportive and constructive dialogue in the pursuit of great code and career growth for all members.
@@ -179,7 +179,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: Hacker Noon
   description: Hacker Noon is built for technologists to read, write, and publish. We are an open and international community of 15k+ contributing writers publishing stories and expertise for 3M+ curious and insightful monthly readers.
@@ -197,7 +197,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: APIsecurity.io
   description: APISecurity.io is a community website for all things related to API security. Our daily news and weekly API Security newsletter cover the latest breaches, vulnerabilities, standards, best practices, regulations, and technology.
@@ -212,7 +212,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: Reddit r/api
   description: The Reddit channel all about application programming interfaces.
@@ -225,7 +225,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: API Developer Weekly Newsletter
   description: The API Developer Weekly is a weekly newsletter hyper-focused on the business, design, development, and deployment of APIs for web and mobile apps. API Developer Weekly NewsletterThe newsletter is hand-curated and designed to keep you updated on the latest news, product releases, and trends in API business, practices, and related technologies.
@@ -238,7 +238,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: Net API Notes
   description: There is no end to the rolling online debate over API best practices, microservices, and expectations. Let me save you time and effort by highlighting only the essential API information needed to succeed in a succinct, weekly digest - delivered directly to your inbox!
@@ -251,7 +251,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: Postman API Network
   description: The Postman API Network provides a central place for both API consumers and API producers to easily discover, explore, and share APIs. The Postman API Network has two parts, a public network and a private network. The Postman Public API Network is open to the entire API community, while the Postman Private API Network is for your team only.
@@ -266,7 +266,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: RapidAPI
   description: There are millions of software programs out there and they’re reshaping every aspect of our lives. We believe that they can get exponentially better by sharing data and functionality with each other. APIs are the language that software uses to communicate and connect. RapidAPI is the world’s largest API marketplace. RapidAPI lets you manage all your API integrations from one place and gives you real-time performance metrics.
@@ -281,7 +281,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: SmartAPI
   description: The SmartAPI project aims to maximize the FAIRness (Findability, Accessibility, Interoperability, and Reusability) of web-based Application Programming Interfaces (APIs). Rich metadata is essential to properly describe your API so that it becomes discoverable, connected, and reusable. We have developed a openAPI-based specification for defining the key API metadata elements and value sets. SmartAPI's leverage the Open API specification v3 and JSON-LD for providing semantically annotated JSON content that can be treated as Linked Data.
@@ -294,7 +294,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: AnyAPI
   description: Documentation and Test Consoles for Over 1400 Public APIs
@@ -307,7 +307,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: API Tracker
   description: The API Tracker aggregates +14,000 SaaS products, SDKs, APIs, and DX profiles. It aims to help developers access the information they need to integrate APIs faster.
@@ -322,7 +322,7 @@ apis:
   contact:
   - FN: Apideck
     email: apitracker@apideck.com
-    x-Tweets: apideck
+    x-twitter: apideck
 
 - name: APIs.guru
   description: Our goal is to create a machine-readable Wikipedia for REST APIs with the following principals, open source, community driven project, only publicly available APIs (free or paid), anyone can add or change an API, not only API owners, and all data can be accessed through a REST API.
@@ -335,7 +335,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: Postman State of the API Report
   description: The annual State of the API survey is the largest and most comprehensive survey of the API industry. Every year, Postman surveys industry members to get a picture of the API industry—to understand who is working with APIs, how they are getting their work done, and where they see the industry going. More than 13,500 developers, testers, executives, and others took our 2020 survey and provided insights on everything from how they spend their time to what they see as the biggest issues and opportunities for APIs.
@@ -348,7 +348,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: SmartBear State of the API Report
   description: Identify the latest benchmarks and gain insight into where the API industry is headed. We look at the latest methodologies, practices, and tools used by software teams across the world. Answers came from over 1,500 API practitioners and customers, with respondents that hail from a wide array of industries.
@@ -361,7 +361,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: Cloud Elements State of the API Integration Report
   description: Using data to make decisions is more important now than ever. In our fourth annual State of API Integration report, we collected responses from 380+ API enthusiasts across 28 industries to determine where API integration is trending in 2020.
@@ -374,7 +374,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: Akamai State of the Internet / Security report
   description: All three of our stories in this issue of the State of the Internet / Security report are about things most organizations aren’t examining. Whether the cause is that organizations don’t perceive some issues as important to their environment, if they don’t have tooling to monitor these issues, or if the resources to monitor this traffic are not available, this traffic is often being overlooked.
@@ -387,7 +387,7 @@ apis:
   contact:
   - FN: API Evangelist
     email: info@apievangelist.com
-    x-Tweets: getpostman
+    x-twitter: getpostman
 
 - name: API Stack
   description: A collection of +100 tools and resources to build APIs.
@@ -402,7 +402,7 @@ apis:
   contact:
   - FN: Apideck
     email: apistack@apideck.com
-    x-Tweets: apideck
+    x-twitter: apideck
 
 - name: API.expert
   description: API.expert was launched by APImetrics with the goal of allowing all stakeholders to have a clear understanding of how their APIs are performing.
@@ -416,7 +416,7 @@ apis:
   contact:
   - FN: API Expert
     email: support@apimetrics.io
-    x-Tweets: apimetricstats
+    x-twitter: apimetricstats
 
 - name: Chenosis
   description: Chenosis is a cross-industry API Marketplace that enables developers, entrepreneurs and businesses to come together to create, discover and subscribe to the fastest growing library of open APIs.
@@ -431,7 +431,7 @@ apis:
     url: https://twitter.com/ChenosisAPI
   contact:
   - FN: Chenosis
-    x-Tweets: ChenosisAPI
+    x-twitter: ChenosisAPI
 
 - name: NetAPI.Events
   description: The Latest Upcoming, In-Person API Events. Events are culled from Twitter hearsay, select Meetup.com groups, and/or directly from kind individuals looking to grow their community. Have something not listed here? Submit an event!
@@ -445,9 +445,25 @@ apis:
     url: https://webapi.events/
   contact:
   - FN: Matthew Reinbold
-    x-Tweets: hello@matthewreinbold.com
+    x-twitter: hello@matthewreinbold.com
+
+- name: API Careers
+  description: A website dedicated to sharing API specifi jobs that are available across the sector, providing a single place where API providers and service providerrs can publish their jobs, and find the top tier API talent.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/netapi-events-screenshot.png
+  tags:
+  - Careers
+  - Jobs
+  - Postings
+  properties:
+  - type: x-website
+    url: https://apicareers.com/
+  contact:
+  - FN:
+    x-twitter: https://twitter.com/manp   
+  - FN:
+    x-twitter: https://twitter.com/Stephen_Mizell      
 
 maintainers:
 - FN: API Evangelist
-  x-Tweets: getpostman
+  x-twitter: getpostman
   email: info@apievangelist.com

@@ -187,6 +187,35 @@ layout: default
 <div class="container-fluid">
    <div class="row blurb text-center">
       <div class="col-md-12">
+         <h2>Postman Open Technologies</h2>
+         <p class="collection__end_p">Postman's official program for investing in API specifications, standards, tooling, and data.</p>
+      </div>
+      <div class="col-md-12 blurb_padding"><a class="btn btn__secondary-light" href="https://postman-open-technologies.github.io/home/">Explore Postman Open Technologies</a></div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <h2 class="h1">API Careers</h2>
+            <p>Posting abd finding a job that is API related.</p>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.apis %}
+        {% assign show_tag = "Careers" %}
+        {% include api-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
          <h2>About this API Knowledge Toolbox</h2>
          <p class="collection__end_p">This site is meant to aggregate some of the common sources of information for the API sector, providing a single place where you can find out what is going on.</p>
       </div>
