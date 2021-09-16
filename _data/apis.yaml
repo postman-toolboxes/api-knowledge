@@ -491,6 +491,98 @@ apis:
     email: info@apievangelist.com
     x-twitter: apievangelist
 
+- name: Breaking Changes
+  description: Breaking Changes is a weekly talk show where Postman Chief Evangelist Kin Lane hosts stellar guests from all across the API universe to discuss, debate, and solve the latest topics around APIs and API-first.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/breaking-changes.png
+  tags:
+  - Podcasts
+  properties:
+  - type: x-website
+    url: https://www.postman.com/events/breaking-changes/
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: apievangelist    
+
+- name: API The Docs Podcast
+  description: Our guests talk about their insights and experience as documentarians. We bring advice from behind open and closed developer portals, ideas on what new learnings you can aim for, and recent experiments from the field of API documentation.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-the-docs.png
+  tags:
+  - Podcasts
+  properties:
+  - type: x-website
+    url: https://anchor.fm/api-the-docs-podcast
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: apievangelist           
+
+- name: Console DevTools
+  description: Discussing the most interesting developer tools from the weekly Console newsletter, a free email digest of the best tools and beta releases for developers.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/devtools.png
+  tags:
+  - Podcasts
+  properties:
+  - type: x-website
+    url: https://podcast.console.dev/
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: apievangelist    
+
+- name: API Intersection
+  description: In the API Intersection, you’ll learn from experienced API practitioners who transformed their organizations and get tangible advice to build quality APIs with collaborative API-first design.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-intersection.png
+  tags:
+  - Podcasts
+  properties:
+  - type: x-website
+    url: https://stoplight.io/podcast/
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: apievangelist  
+
+- name: APIs Over IPAs
+  description: A podcast about how to build an API-first business from Moseif the API analytics company, providing regular interviews with interesting individuals from across the API space.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/apis-over-ipas.png
+  tags:
+  - Podcasts
+  properties:
+  - type: x-website
+    url: https://www.moesif.com/blog/podcasts/
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: apievangelist          
+
+- name: Coding Over Cocktails
+  description: Coding Over Cocktails is created by TORO Cloud, a company that offers a low-code, API centric platform for application development & integration.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/coding-over-cocktails.png
+  tags:
+  - Podcasts
+  properties:
+  - type: x-website
+    url: https://www.torocloud.com/podcast
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: apievangelist         
+
+- name: API Storytelling
+  description: A place for telling stories about storytelling, using APIs as a muse, working our way through different guests, topics, and views of why storytelling matters.
+  image: https://postman-toolboxes2.s3.amazonaws.com/assets/api-knowledge/api-storytelling.png
+  tags:
+  - Podcasts
+  properties:
+  - type: x-website
+    url: https://www.youtube.com/channel/UChLC45yh9DTkerV-TSJJo3A/featured
+  contact:
+  - FN: API Evangelist
+    email: info@apievangelist.com
+    x-twitter: apievangelist            
+
+
 maintainers:
 - FN: API Evangelist
   x-twitter: getpostman

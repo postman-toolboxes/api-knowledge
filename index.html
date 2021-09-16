@@ -100,6 +100,35 @@ layout: default
 <div class="container-fluid">
    <div class="row blurb text-center">
       <div class="col-md-12">
+         <h2>API Lifecycle</h2>
+         <p class="collection__end_p">A modular approach for defining what the API lifecycle can be, providing us with a standardized way to have a conversation around the API lifecycle.</p>
+      </div>
+      <div class="col-md-12 blurb_padding"><a class="btn btn__secondary-light" href="https://apis.how/">Explore the API Lifecycle</a></div>
+   </div>
+</div>
+
+<div class="collection__wrapper">
+   <div class="container">
+
+			<div class="row collection__header text-center">
+         <div class="col-md-12">
+            <h2 class="h1">API Podcasts</h2>
+            <p>Some of the API podcasts that you should be tuning into.</p>
+         </div>
+      </div>
+
+      <div>
+        {% assign index = site.data.apis %}
+        {% assign show_tag = "Podcasts" %}
+        {% include api-listing.html %}
+      </div>
+
+   </div>
+</div>
+
+<div class="container-fluid">
+   <div class="row blurb text-center">
+      <div class="col-md-12">
          <h2>Wikipedia</h2>
          <p class="collection__end_p">You can learn more about what an API is from Wikipedia.</p>
       </div>
